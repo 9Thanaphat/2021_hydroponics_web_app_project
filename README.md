@@ -3,6 +3,7 @@ This project was part of my studies during my vocational education. It was devel
 Web Application Interface :
 ![project_2021_web](https://github.com/user-attachments/assets/05d4384c-3d68-4114-8841-47fc6c7d5b87)
 
+schedule config :
 ![project_2021_web_1](https://github.com/user-attachments/assets/d746a3dc-0143-4d3f-b1aa-0812119912a3)
 
 Technologies Used
