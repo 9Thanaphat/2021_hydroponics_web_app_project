@@ -4,7 +4,7 @@ Web Application Interface :
 ![project_2021_web](https://github.com/user-attachments/assets/05d4384c-3d68-4114-8841-47fc6c7d5b87)
 
 Technologies Used
-Hardware: ESP32
-Sensors : DHT11
-Web : HTML, CSS, JavaScript, PHP
-Database: MySQL
+Hardware: ESP32 <br>
+Sensors : DHT11 <br>
+Web : HTML, CSS, PHP <br>
+Database: MySQL <br>
