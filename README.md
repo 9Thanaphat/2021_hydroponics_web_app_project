@@ -12,6 +12,8 @@ Design : <br>
 ![project_2021_device](https://github.com/user-attachments/assets/93bd1e76-2c02-4057-84bd-70e2ebbaefc9)<br>
 controller : <br>
 ![project_2021_controller](https://github.com/user-attachments/assets/bbf2f4e5-64af-4305-bc00-a2a0bd5d6537)<br>
+growing green oak: <br>
+![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/b65b509a-b388-49ba-b710-d7be456de53d)
 
 Technologies Used
 Hardware: ESP32 <br>
