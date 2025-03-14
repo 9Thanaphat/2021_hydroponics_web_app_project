@@ -4,15 +4,13 @@ This project was part of my studies during my vocational education. It was devel
 ![project_2021_web](https://github.com/user-attachments/assets/05d4384c-3d68-4114-8841-47fc6c7d5b87)
 <br>
 schedule config : <br>
-
 ![project_2021_web_1](https://github.com/user-attachments/assets/8470e71e-a4df-473a-8b7e-35770edeb0ba)
 
 <b>Device :</b> <br>
-
-Design :
-![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/1cc34a7c-fbaf-4869-b841-339a49f0e6d1)
-![project_2021_device](https://github.com/user-attachments/assets/b309a22a-23f8-4c8f-b2ac-ea7c8a98b739)
-![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/aa27ae47-1909-4ee0-9d3f-59527e5ea892)
+Design : <br>
+![project_2021_design_device](https://github.com/user-attachments/assets/9da3105e-8347-4f6f-97c2-d530b22c95b0)<br>
+![project_2021_device](https://github.com/user-attachments/assets/93bd1e76-2c02-4057-84bd-70e2ebbaefc9)<br>
+![project_2021_controller](https://github.com/user-attachments/assets/bbf2f4e5-64af-4305-bc00-a2a0bd5d6537)<br>
 
 Technologies Used
 Hardware: ESP32 <br>
