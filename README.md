@@ -1,6 +1,6 @@
 This project was part of my studies during my vocational education. It was developed at a time when I was still new to engineering and programming, so some aspects may not be perfect. However, this project reflects my dedication to learning and experimenting with developing a hydroponic plant-growing system using LED lighting, controlled via a web application.
 
-<br>Technologies Used</b><br>
+Technologies Used</b><br>
 Hardware: ESP32 <br>
 Sensors : DHT11 <br>
 Web : HTML, CSS, JavaScript, PHP <br>
