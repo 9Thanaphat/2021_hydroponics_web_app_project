@@ -6,5 +6,5 @@ Web Application Interface :
 Technologies Used
 Hardware: ESP32 <br>
 Sensors : DHT11 <br>
-Web : HTML, CSS, PHP <br>
+Web : HTML, CSS, JavaScript, PHP <br>
 Database: MySQL <br>
