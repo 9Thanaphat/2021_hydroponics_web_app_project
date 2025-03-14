@@ -4,7 +4,9 @@ Web Application Interface :
 ![project_2021_web](https://github.com/user-attachments/assets/05d4384c-3d68-4114-8841-47fc6c7d5b87)
 <br>
 schedule config : <br>
-![project_2021_web_1](https://github.com/user-attachments/assets/d746a3dc-0143-4d3f-b1aa-0812119912a3)
+_1](https://github.com/user-attachments/assets/d746a3dc-0143-4d3f-b1aa-0812119912a3)<br>
+
+![project_2021_web![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/ecdccf5c-6fa7-4af2-84de-ee1106666c53)
 
 Technologies Used
 Hardware: ESP32 <br>
