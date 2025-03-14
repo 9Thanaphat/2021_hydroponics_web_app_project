@@ -6,7 +6,8 @@ Web Application Interface :
 schedule config : <br>
 _1](https://github.com/user-attachments/assets/d746a3dc-0143-4d3f-b1aa-0812119912a3)<br>
 
-![project_2021_web![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/ecdccf5c-6fa7-4af2-84de-ee1106666c53)
+Hardware :
+![project_2021_web_growing_green_oak](https://github.com/user-attachments/assets/9080f647-d525-4025-b3b0-88700e49b805)
 
 Technologies Used
 Hardware: ESP32 <br>
