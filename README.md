@@ -1,5 +1,5 @@
-⚠️ This is an archived project from 2021. The code includes multiple issues and has not been refactored.
-
+**⚠️ This is an archived project from 2021. The code includes multiple issues and has not been refactored.
+**
 This project was part of my studies during my vocational education. It was developed at a time when I was still new to engineering and programming, so some aspects may not be perfect. However, this project reflects my dedication to learning and experimenting with developing a hydroponic plant-growing system using LED lighting, controlled via a web application.
 
 Technologies Used</b><br>
